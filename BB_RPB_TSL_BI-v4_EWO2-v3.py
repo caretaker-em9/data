@@ -95,7 +95,6 @@ class BB_RPB_TSL_BIV1(IStrategy):
     	min_leverage = 100.0
 
         return min_leverage
-
     '''
         BB_RPB_TSL
         @author jilv220
